@@ -1,0 +1,36 @@
+{
+    "name": "coda-classic-theme",
+    "displayName": "Coda Classic",
+    "description": "A light theme based on Coda Classic from Coda",
+    "version": "1.0.0",
+    "publisher": "coastermcgee",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "license": "MIT",
+	"homepage": "https://github.com/coastermcgee/vscode-coda-classic-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/coastermcgee/vscode-coda-classic-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/coastermcgee/vscode-coda-classic-theme/issues"
+	},
+    "galleryBanner": {
+        "color": "#2FC303",
+        "theme": "light"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coda Classic",
+                "uiTheme": "vs",
+                "path": "./themes/coda-classic-color-theme.json"
+            }
+        ]
+    }
+}

@@ -7,3 +7,6 @@ All notable changes to the "coda theme" extension will be documented in this fil
 
 ## [1.1.0]
 - Theme settings for notifications and some cleanup
+
+## [1.1.1]
+- Additional cleanup

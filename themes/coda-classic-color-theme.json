@@ -66,8 +66,7 @@
                 "notifications.border": "#696969",
                 "notificationCenterHeader.background": "#3c993e",
                 "notificationCenterHeader.foreground": "#ffffff",
-		"badge.background": "#3c993e",
-                "button.background": "#3c993e"
+		"badge.background": "#3c993e"
 	},
 	"tokenColors": [
 		{

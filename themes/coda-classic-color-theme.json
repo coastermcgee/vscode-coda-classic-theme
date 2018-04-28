@@ -19,6 +19,7 @@
 		"editor.findMatchHighlightBackground": "#a3ccfe",
 		"editorWidget.background": "#f1f1f1",
 		"editor.lineHighlightBackground": "#f7fafb",
+		"editorLineNumber.activeForeground": "#83d485",
 		"editorCursor.foreground": "#000000",
 		"editorWhitespace.foreground": "#dd2400",
 		"editorIndentGuide.background": "#d7d7d7",
@@ -59,8 +60,14 @@
 		"peekViewEditor.matchHighlightBackground": "#a3ccfe",
 		"statusBar.debuggingBackground": "#83d485",
 		"editorSuggestWidget.highlightForeground": "#3c993e",
-    	"editorSuggestWidget.selectedBackground": "#a3ccfe",
-    	"editorSuggestWidget.background": "#ffffff"
+    	        "editorSuggestWidget.selectedBackground": "#a3ccfe",
+    	        "editorSuggestWidget.background": "#ffffff",
+		"notifications.background": "#d8d8d8",
+                "notifications.border": "#696969",
+                "notificationCenterHeader.background": "#3c993e",
+                "notificationCenterHeader.foreground": "#ffffff",
+		"badge.background": "#3c993e",
+                "button.background": "#3c993e"
 	},
 	"tokenColors": [
 		{

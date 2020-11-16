@@ -11,5 +11,5 @@ All notable changes to the "coda theme" extension will be documented in this fil
 ## [1.1.1]
 - Additional cleanup
 
-## [1.2]
+## [1.2.0]
 - Fix broken images in readme file

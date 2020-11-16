@@ -1,6 +1,6 @@
 # Coda Classic theme for [Visual Studio Code](http://code.visualstudio.com)
-[![Installs](http://vsmarketplacebadge.apphb.com/installs/coastermcgee.coda-classic-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.coda-classic-theme)
-[![Rating](http://vsmarketplacebadge.apphb.com/rating-short/coastermcgee.coda-classic-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.coda.classic-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/coastermcgee.coda-classic-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.coda-classic-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/coastermcgee.coda-classic-theme.svg)](https://marketplace.visualstudio.com/items?itemName=coastermcgee.coda.classic-theme)
 
 # vscode-coda-classic-theme
 A bright color theme for Visual Studio Code based on Coda Classic for Coda
